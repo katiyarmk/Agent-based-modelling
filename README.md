@@ -1,1 +1,2 @@
 # Agent-based-modelling
+Traditional water management practices did not include the interactions between agents. But through Agent based modelling , we can see how micro level interactions can cause macro level patterns. In this project , I have used netlogo software to visualise how different parameters will affect the tapped water supply to a region. We can set different values to any parameters and we can see how it is affecting reliability, ground water depletion and water use by rich and poors.
